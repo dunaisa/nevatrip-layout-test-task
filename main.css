@@ -21,7 +21,7 @@
 .option_icon{height:16px;margin:0;-o-object-fit:cover;object-fit:cover;padding:0;width:16px}
 .option_text{color:#4b4b4b;font-family:Open Sans,Arial,sans-serif;font-size:14px;font-weight:400;line-height:20px;margin:0 0 0 20px;max-width:243px;padding:0}@media screen and (max-width:375px){.option_text{margin:0 0 0 10px}}
 .option_time{display:flex;flex-wrap:wrap;gap:9px;margin:0 0 0 9px}@media screen and (max-width:375px){.option_time{margin:0}}
-.option_btn{background-color:#d9e8ff;border-radius:11px;color:#343434;cursor:pointer;font-family:Open Sans,Arial,sans-serif;font-size:14px;font-weight:400;line-height:20px;margin:0 0 0 9px;padding:6px 14px}.option_btn:hover{background-color:#6ba6ff;box-shadow:0 2px 4px 0 #00000040}@media screen and (max-width:768px){.option_btn{margin-bottom:9px}}@media screen and (max-width:375px){.option_btn{padding:5px 13px}}
+.option_btn{background-color:#d9e8ff;border-radius:11px;color:#343434;cursor:pointer;font-family:Open Sans,Arial,sans-serif;font-size:14px;font-weight:400;line-height:20px;margin:0 0 0 9px;padding:6px 14px;text-decoration:none}.option_btn:hover{background-color:#6ba6ff;box-shadow:0 2px 4px 0 #00000040}@media screen and (max-width:768px){.option_btn{margin-bottom:9px}}@media screen and (max-width:375px){.option_btn{padding:5px 13px}}
 .option_btn_disable{display:none}
 .ribbon{background-color:#7553ff;border-bottom-right-radius:12px;border-top-left-radius:15px;color:#fff;font-family:Open Sans,Arial,sans-serif;font-size:14px;font-weight:600;left:0;line-height:20px;margin:0;padding:12px 27px;position:absolute;text-transform:uppercase;top:0}
 
