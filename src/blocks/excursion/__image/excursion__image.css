@@ -1,0 +1,15 @@
+.excursion__image {
+  overflow: hidden;
+  object-fit: cover;
+  /* width: 341px;
+  height: 220px; */
+  min-height: 220px;
+  width: 473px;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 1024px) {
+  .excursion__image {
+    width: 100%;
+  }
+}

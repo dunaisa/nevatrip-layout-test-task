@@ -1,0 +1,12 @@
+.excursion__description {
+  margin: 16px 17px 0 22px;
+  padding: 0;
+  display: grid;
+  max-width: 541px;
+}
+
+@media screen and (max-width: 1024px) {
+  .excursion__description {
+    margin: 16px 12px;
+  }
+}

@@ -1,0 +1,17 @@
+.excursion__title {
+  padding: 0;
+  margin: 0;
+  font-family: 'Open Sans',
+    Arial,
+    sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22px;
+  color: #404040;
+}
+
+@media screen and (max-width: 1024px) {
+  .excursion__title {
+    margin: 10px 0 0 0;
+  }
+}

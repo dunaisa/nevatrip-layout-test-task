@@ -1,0 +1,13 @@
+.container__items {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+  gap: 60px;
+}
+
+@media screen and (max-width: 1024px) {
+  .container__items {
+    gap: 30px;
+  }
+}

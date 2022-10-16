@@ -1,0 +1,30 @@
+.option_btn {
+  font-family: 'Open Sans',
+    Arial,
+    sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #343434;
+  background-color: #D9E8FF;
+  border-radius: 11px;
+  cursor: pointer;
+  padding: 6px 14px;
+  margin: 0 0 0 9px;  
+}
+
+.option_btn:hover {
+  background-color: #6BA6FF;
+  box-shadow: 0px 2px 4px 0px #00000040;
+}
+@media screen and (max-width: 768px) {
+  .option_btn {
+    margin-bottom: 9px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .option_btn {
+    padding: 5px 13px;
+  }
+}

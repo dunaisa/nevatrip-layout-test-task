@@ -1,0 +1,12 @@
+.option_time {
+  margin: 0 0 0 9px;
+  gap: 9px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 375px) {
+  .option_time {
+    margin: 0;
+  }
+}

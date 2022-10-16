@@ -1,0 +1,13 @@
+.excursion__info {
+  margin: 10px 19px 21px 22px;
+  padding: 0;
+  display: flex;  
+  align-items: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .excursion__info {
+    margin: 10px 19px 19px;
+    justify-content: space-between;
+  }
+}

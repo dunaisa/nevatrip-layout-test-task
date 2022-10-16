@@ -1,0 +1,11 @@
+.excursion__duration {
+  display: flex;
+  align-items: center;
+  grid-row: 2;
+}
+
+@media screen and (max-width: 1024px) {
+  .excursion__duration {
+    grid-row: 1;
+  }
+}

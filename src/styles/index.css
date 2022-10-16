@@ -1,0 +1,32 @@
+@import url('../vendor/normalize.css');
+
+@import url('../fonts/fonts.css');
+
+@import url('../blocks/page/page.css');
+
+@import url('../blocks/container/container.css');
+@import url('../blocks/container/__items/container__items.css');
+
+@import url('../blocks/excursion/excursion.css');
+@import url('../blocks/excursion/__image/excursion__image.css');
+@import url('../blocks/excursion/__description/excursion__description.css');
+@import url('../blocks/excursion/__duration/excursion__duration.css');
+@import url('../blocks/excursion/__title/excursion__title.css');
+@import url('../blocks/excursion/__options/excursion__options.css');
+@import url('../blocks/excursion/__option/excursion__option.css');
+@import url('../blocks/excursion/__info/excursion__info.css');
+@import url('../blocks/excursion/__info/__btn/excursion__info__btn.css');
+@import url('../blocks/excursion/__prices/excursion__prices.css');
+@import url('../blocks/excursion/__price/__discount/excursion__price__discount.css');
+@import url('../blocks/excursion/__price/__total/excursion__price__total.css');
+
+@import url('../blocks/duration/_icon/duration_icon.css');
+@import url('../blocks/duration/_text/duration_text.css');
+
+@import url('../blocks/option/_icon/option_icon.css');
+@import url('../blocks/option/_text/option_text.css');
+@import url('../blocks/option/_time/option_time.css');
+@import url('../blocks/option/_btn/option_btn.css');
+@import url('../blocks/option/_btn/_disable/option_btn_disable.css');
+
+@import url('../blocks/ribbon/ribbon.css');

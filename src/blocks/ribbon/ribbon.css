@@ -1,0 +1,18 @@
+.ribbon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 12px;
+  background-color:#7553FF;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  padding: 12px 27px;
+  margin: 0;
+  font-family: 'Open Sans',
+    Arial,
+    sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+}
